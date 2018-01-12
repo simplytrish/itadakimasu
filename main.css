@@ -17,6 +17,20 @@ img {
 	display:inline-block;
 }
 
+a {
+	text-decoration: none;
+	color: #484848;
+}
+
+a:active {
+	text-decoration: none;
+	color: #669999;
+}
+
+a:hover {
+	text-decoration: none;
+	color: #669999;
+}
 
 /*Header styling*/
 
@@ -25,6 +39,10 @@ img {
 	width: 1080px;
 	padding-left:400px;
 	
+}
+
+.header-title a{
+	color: #000000;
 }
 
 .header-nav{
