@@ -1,0 +1,41 @@
+/*Shared Styling*/
+
+.container-fluid{
+	
+}
+
+ul {
+	list-style: none;
+	padding: 0px;
+}
+
+li {
+	display:inline-block;
+}
+
+img {
+	display:inline-block;
+}
+
+
+/*Header styling*/
+
+.header-title {
+	margin: 0 auto;
+	width: 1080px;
+	text-align: center;
+}
+
+.food-menu {
+	margin: 0 auto;
+	width: 1080px;
+}
+
+.header-nav{
+	margin: 0 auto;
+	width: 1080px;
+}
+
+.header-nav li{
+	padding-right:50px;
+}
