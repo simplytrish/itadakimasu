@@ -45,7 +45,7 @@ a:hover {
 }
 
 .header-title a{
-	color: #000000;
+	color: #4fa540;
 }
 
 .header-nav{
@@ -59,14 +59,24 @@ a:hover {
 	padding-right:50px;
 }
 
+/*About styling*/
+
+.about {
+	margin-bottom: 10px;
+}
+
+.about p{
+	text-align: center;
+	font-size: 18px;
+	font-weight: bold;
+}
+
 
 /*Food menu styling*/
 
 .food-menu {
 	margin: 0 auto;
-	width: 100%;
-	
-	
+	width: 100%;	
 }
 
 
