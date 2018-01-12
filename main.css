@@ -26,11 +26,6 @@ img {
 	text-align: center;
 }
 
-.food-menu {
-	margin: 0 auto;
-	width: 1080px;
-}
-
 .header-nav{
 	margin: 0 auto;
 	width: 1080px;
@@ -38,4 +33,13 @@ img {
 
 .header-nav li{
 	padding-right:50px;
+}
+
+.food-menu {
+	margin: 0 auto;
+	width: 1080px;
+}
+
+.food-menu li{
+	padding-right:10px;
 }
