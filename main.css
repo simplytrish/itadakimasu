@@ -78,7 +78,6 @@ a:hover {
 	font-size: 10px;	
 }
 
-p{
-	overflow-wrap: break-word;
+.food-menu p{
 	width:200px;
 }
