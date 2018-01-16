@@ -1,7 +1,13 @@
 /*Shared Styling*/
 
+@import url('https://fonts.googleapis.com/css?family=Comfortaa');
+
 .container-fluid{
 	
+}
+
+.row {
+	margin: 0px !important;
 }
 
 ul {
@@ -72,6 +78,19 @@ a:hover {
 }
 
 
+/*How to styling*/
+
+.howto h2{
+	text-align: center;
+}
+
+.howto li {
+	display: block;
+	font-size: 25px;
+	font-family: 'Comfortaa', cursive;
+	
+}
+
 /*Food menu styling*/
 
 .food-menu {
@@ -81,7 +100,8 @@ a:hover {
 
 
 .food-menu li{
-	padding-right:20px;
+	width:200px;
+	padding-right: 10px;
 }
 
 .menu-desc {
@@ -91,3 +111,5 @@ a:hover {
 .food-menu p{
 	width:200px;
 }
+
+
