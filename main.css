@@ -42,7 +42,7 @@ a:hover {
 
 .content {
 	margin: 0 auto;
-	width: 65%;
+	width: 80%;
 }
 
 .header-title {
@@ -98,10 +98,18 @@ a:hover {
 	width: 100%;	
 }
 
+#food-anchor{
+	margin:0px;
+}
 
 .food-menu li{
-	width:200px;
-	padding-right: 10px;
+	/*width:200px;
+	padding-right: 10px;*/
+}
+
+.food-menu img{
+	width:250px;
+	height: auto;
 }
 
 .menu-desc {
@@ -111,5 +119,7 @@ a:hover {
 .food-menu p{
 	width:200px;
 }
+
+/*Contacts*/
 
 
